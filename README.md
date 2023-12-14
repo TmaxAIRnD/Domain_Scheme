@@ -1,5 +1,6 @@
 # Domain_Scheme
 IITP-115 Open SoftWare
+지식 그래프 구성을 위한 개체 및 개체간의 관계 정의
 
 # Domain
 - Article (논문)
