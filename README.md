@@ -4,4 +4,4 @@ IITP-115 Open SoftWare
 
 # Domain
 - Article (논문)
-![download](https://github.com/TmaxAIRnD/Domain_Scheme/assets/72729802/7f53dd22-cd0f-4f0b-99f5-1ddf148a29cd)
+![Domain_Schema_image](https://github.com/TmaxAIRnD/Domain_Scheme/assets/38495816/405bd47a-1909-45b0-857f-f63b1f93c85c)
